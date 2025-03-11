@@ -11,3 +11,4 @@ for( i = 0; i > skills.length; i++) {
 }
 
 console.log(skills);
+//
